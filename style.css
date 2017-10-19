@@ -1,0 +1,30 @@
+body{
+  font-family: 'Josefin Slab', serif;
+}
+
+h1 small{
+  font-size: 0.4em;
+  padding-left:0.5em;
+}
+.map *{
+  width: 100%;
+  padding:10px;
+  text-align: center;
+}
+#title{
+  padding-top:20px;
+}
+#vistedCountryList{
+  text-align: left;
+}
+.country{
+  padding:5px;
+  padding-left: 10px;
+  margin: 5px;
+  background-color: #4286f4;
+  border: 2px solid white;
+}
+.g-signin2{
+  padding: 22px;
+  text-align: right;
+}
